@@ -1,6 +1,7 @@
-.AppHeader{
-    background-color:blanchedalmond;
-    font-size: 25px;
-    padding: 10px;
-    margin: 5%;
+.AppHeader {
+  background-color: blanchedalmond;
+  font-size: 25px;
+  padding: 10px;
+  margin: 5%;
+  border-radius: 50px 20px 50px 50px;
 }
