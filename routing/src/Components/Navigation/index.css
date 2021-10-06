@@ -1,18 +1,18 @@
-ul {
+.Navigation ul {
   list-style-type: none;
   width: 100%;
   height: 30%;
   background-color: whitesmoke;
 
 }
-li {
+.Navigation li {
   display: inline;
   margin: 5px;
   padding: 25px;
   text-align: center;
 }
-link {
-  color: white;
+.Navigation .link {
+  color: Blue;
   text-decoration: none;
 }
 h1 {

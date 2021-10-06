@@ -6,13 +6,13 @@ export default class Navigation extends Component{
     render(){
 
         return(
-            <div>
+            <div className='Navigation'>
             <h1>Welcome to Football Club</h1>
             <ul>
-            <li><Link className='link' to='/'>Home</Link> </li>    
-            <li><Link className='link' to='/about'>About</Link> </li>
-            <li><Link className='link' to='/contact'>Contact</Link></li>
-            <li><Link className='link' to='/players'>Players</Link></li>
+                <li><Link className='link' to='/'>Home</Link> </li>    
+                <li><Link className='link' to='/about'>About</Link> </li>
+                <li><Link className='link' to='/contact'>Contact</Link></li>
+                <li><Link className='link' to='/players'>Players</Link></li>
             </ul>
             </div>
             
